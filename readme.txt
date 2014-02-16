@@ -15,6 +15,8 @@ This plugin takes the rss fields (XML API) available from your Oracle Aragon-eRH
 You can sync Aragon-eRH manually or using a bulk process. The plugin will technically work with any XML feed that uses the format: rss > channel > item > link, title, description, pubDate.
 The widget height can be set from the widget screen and allows you to scroll the content like a vertical ticker.
 
+Infinity88 (http://infinity88.ca) - Ottawa Web Design and Database Design.
+
 == Installation ==
 
 
