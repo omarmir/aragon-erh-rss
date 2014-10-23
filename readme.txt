@@ -1,5 +1,5 @@
 === Aragon-eRH RSS ===
-Contributors: Omar Mir
+Contributors: MirWindsor - Omar
 Donate link: 
 Tags: Aragon-eRH, HR, eRH, eHR, Aragon, RSS
 Requires at least: 3.0
